@@ -21,6 +21,6 @@ public class ReverseStringTests {
     public void test3(){
     String word = "true";
     String result = reverseString.reversString(word);
-    Assert.assertEquals("eurt", result);
+    Assert.assertEquals("Eurt", result);
 }
 }
